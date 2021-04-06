@@ -159,6 +159,7 @@ dt {
 	font-weight: bold;	/*太字にする設定。標準がいいならこの行削除。*/
 	float: left;
 	clear: left;
+	margin-right: 0.5em;
 }
 /*記事設定*/
 dd {
