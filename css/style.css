@@ -150,18 +150,18 @@ footer .pr {
 /*トップページ内「更新情報・お知らせ」ブロック
 ---------------------------------------------------------------------------*/
 /*ブロック全体の設定*/
-#new dl {
+dl {
 	padding-left: 20px;
 	margin-bottom: 15px;
 }
 /*日付設定*/
-#new dt {
+dt {
 	font-weight: bold;	/*太字にする設定。標準がいいならこの行削除。*/
 	float: left;
 	width: 8em;
 }
 /*記事設定*/
-#new dd {
+dd {
 	padding-left: 8em;
 }
 
