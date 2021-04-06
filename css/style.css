@@ -166,6 +166,22 @@ dd {
 	padding-left: 3em;
 }
 
+#contact dl {
+	padding-left: 20px;
+	margin-bottom: 15px;
+}
+/*日付設定*/
+#contact dt {
+	font-weight: bold;	/*太字にする設定。標準がいいならこの行削除。*/
+	float: left;
+	clear: left;
+	margin-right: 0.5em;
+}
+/*記事設定*/
+#contact dd {
+	padding-left: 5em;
+}
+
 /*テーブル
 ---------------------------------------------------------------------------*/
 /*tテーブルブロック設定*/
